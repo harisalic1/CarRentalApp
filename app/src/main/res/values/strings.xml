@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="home">Home</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="notifications">Notifications</string>
+    <string name="map">Map</string>
+</resources>
